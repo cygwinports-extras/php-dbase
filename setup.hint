@@ -1,0 +1,6 @@
+category: PHP
+requires: php
+sdesc: "PHP dBase module"
+ldesc: "These functions allow you to access records stored in 
+dBase-format (dbf) databases. dBase files are simple sequential files of 
+fixed length records."
