@@ -1,0 +1,11 @@
+PHP_CHANNEL=pecl
+inherit php
+
+NAME="php-dbase"
+VERSION=5.0.1
+RELEASE=2
+CATEGORY="PHP"
+SUMMARY="PHP dBase module"
+DESCRIPTION="These functions allow you to access records stored in dBase-format
+(dbf) databases. dBase files are simple sequential files of fixed length
+records."
