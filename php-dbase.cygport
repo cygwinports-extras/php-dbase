@@ -3,7 +3,7 @@ inherit php
 
 NAME="php-dbase"
 VERSION=5.1.0
-RELEASE=1
+RELEASE=2
 CATEGORY="PHP"
 SUMMARY="PHP dBase module"
 DESCRIPTION="These functions allow you to access records stored in dBase-format
